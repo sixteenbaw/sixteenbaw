@@ -97,7 +97,15 @@ I'm still figuring out where I want to specialize, and that's part of what makes
 - Looking for ways to apply what I learn to real-world problems.
 
 
-Outside of tech, there's usually music playing — mostly <img src="./assets/olivia-rodrigo.png" alt="Olivia Rodrigo" height="19" />. I'm also into <img src="./assets/formula-1.png" alt="Formula 1" height="19" />, **football, movies, and games**.
+
+Outside of tech, there's usually music playing.
+I'm also into Formula 1, football, movies, and games.
+
+<p align="center">
+  <img src="./assets/olivia-rodrigo.png" alt="Olivia Rodrigo" height="19" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/formula-1.png" alt="Formula 1" height="19" />
+</p>
 
 ---
 
