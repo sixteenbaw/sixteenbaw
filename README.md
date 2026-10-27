@@ -7,7 +7,7 @@
 
 **Web development · Python · Back-end fundamentals · APIs & automation**
 
-<sub>Systems Analysis & Development student based in Brazil.</sub>
+<sub>Systems Analysis & Development student born and raised in Brazil.</sub>
 
 <br><br>
 
