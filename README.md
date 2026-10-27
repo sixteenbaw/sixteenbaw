@@ -1,4 +1,6 @@
+
 <!-- Profile README for github.com/sixteenbaw -->
+
 <div align="center">
 
 # Nick
@@ -8,10 +10,22 @@
 <sub>Systems Analysis & Development student based in Brazil.</sub>
 
 <br><br>
+
 <img src="./assets/terminal.gif" width="540" alt="Terminal animation" />
 
-<br>
-<a href="https://github.com/sixteenbaw?tab=repositories">Projects</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nicolyrolim/">LinkedIn</a>
+<br><br>
+
+<a href="https://github.com/sixteenbaw?tab=repositories">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="26" height="26" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicolyrolim/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="26" height="26" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nicklr8/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="26" height="26" alt="Instagram" />
+</a>
 
 </div>
 
@@ -69,13 +83,20 @@ Outside of tech, there's usually music playing. I'm also into Formula 1, footbal
 
 <div align="center">
 
-<!-- Personal GIF: replace train.gif with ccmn.gif, dropdead.gif, feminine.gif or iny.gif whenever you choose. -->
-<img src="./assets/train.gif" alt="A music-inspired animated moment" width="460" />
+<img src="./assets/train.gif" alt="Music-inspired animation" width="460" />
 
 <br><br>
+
 <sub>Beyond the Code.</sub>
 
 <br><br>
-<a href="https://www.linkedin.com/in/nicolyrolim/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/sixteenbaw?tab=repositories">GitHub projects</a>
+
+<a href="https://www.linkedin.com/in/nicolyrolim/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nicklr8/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" height="24" alt="Instagram" />
+</a>
 
 </div>
