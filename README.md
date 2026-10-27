@@ -13,8 +13,6 @@
 
 <img src="./assets/terminal.gif" width="540" alt="Terminal animation" />
 
-<br><br>
-
 <p align="center">
   <a href="https://github.com/sixteenbaw"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" height="27" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nicolyrolim/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="27" height="27" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
