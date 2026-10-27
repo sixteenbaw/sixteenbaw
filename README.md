@@ -96,7 +96,8 @@ I'm still figuring out where I want to specialize, and that's part of what makes
 - Strengthening my foundations in **back-end development, APIs, and automation**.
 - Looking for ways to apply what I learn to real-world problems.
 
-Outside of tech, there's usually music playing — mostly **Olivia Rodrigo**. I'm also into **Formula 1, football, movies, and games**.
+
+Outside of tech, there's usually music playing — mostly <img src="./assets/olivia-rodrigo.png" alt="Olivia Rodrigo" height="19" />. I'm also into <img src="./assets/formula-1.png" alt="Formula 1" height="19" />, **football, movies, and games**.
 
 ---
 
