@@ -25,8 +25,6 @@
 
 ## The Story So Far
 
-## The Story So Far
-
 Hey, I'm Nick, a developer from Brazil with a growing interest in how technology can turn ideas into real, working solutions.
 
 My journey into tech started with a two-year technical program in IT, where I was introduced to programming, software development, and the fundamentals of how systems work. What began as curiosity gradually turned into something I genuinely wanted to pursue.
