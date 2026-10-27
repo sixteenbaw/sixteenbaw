@@ -59,16 +59,6 @@ I've worked with **React** and **Vite** on web interfaces, explored **Next.js** 
 
 `Responsive UI` · `Programming logic` · `CRUD` · `HTTP / JSON` · `API integration` · `Debugging` · `Troubleshooting` · `Process improvement` · `IT support`
 
-## Selected projects
-
-| Project | What it's about |
-| :-- | :-- |
-| [Portfolio](https://github.com/sixteenbaw/project.portfolio) | Exploring front-end development, layout, and visual presentation. |
-| [To-do List](https://github.com/sixteenbaw/to-do-list) | Building interactive functionality with JavaScript. |
-| [RPG Project](https://github.com/sixteenbaw/rpg-projeto) | Practicing programming logic through a Python project. |
-
-You can find other experiments and works in progress in [my repositories](https://github.com/sixteenbaw?tab=repositories).
-
 ## Lately
 
 I'm focused on writing better code, understanding how applications communicate through APIs, and learning how development connects with infrastructure and real-world business needs.
@@ -83,7 +73,7 @@ Outside of tech, there's usually music playing. I'm also into Formula 1, footbal
 <img src="./assets/train.gif" alt="A music-inspired animated moment" width="460" />
 
 <br><br>
-<sub>Still learning. Still making things.</sub>
+<sub>Beyond the Code.</sub>
 
 <br><br>
 <a href="https://www.linkedin.com/in/nicolyrolim/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/sixteenbaw?tab=repositories">GitHub projects</a>
