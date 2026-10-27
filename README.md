@@ -23,13 +23,21 @@
 
 </div>
 
-## About me
+## The Story So Far
 
-I'm a developer who enjoys the process of turning an idea into something that actually works — from figuring out the interface to understanding what happens behind it.
+## The Story So Far
 
-I'm currently studying **Systems Analysis and Development**, building web projects, and expanding my knowledge of **Python, JavaScript, APIs, back-end development, and automation**. I also have an interest in **IT infrastructure and technical support**, which helps me see software beyond the code editor.
+Hey, I'm Nick, a developer from Brazil with a growing interest in how technology can turn ideas into real, working solutions.
 
-What interests me most is connecting the dots: how interfaces, application logic, data, and the underlying systems come together to solve a real problem.
+My journey into tech started with a two-year technical program in IT, where I was introduced to programming, software development, and the fundamentals of how systems work. What began as curiosity gradually turned into something I genuinely wanted to pursue.
+
+Today, I'm studying **Systems Analysis and Development**, exploring different areas of software development, and building my skills through hands-on projects. I've worked with **web technologies, Python, JavaScript, Node.js, and APIs**, while also experimenting with frameworks and tools that help bring more complex ideas to life.
+
+My interests aren't limited to writing code. I'm also gaining professional experience in **IT infrastructure and technical support**, which gives me a broader perspective on how technology operates beyond the development environment.
+
+What I enjoy most is understanding how everything connects — from the interface someone interacts with to the logic, data, and infrastructure working behind the scenes.
+
+I'm still figuring out exactly where I want to specialize, but that's part of what makes this journey interesting. There's always something new to learn, something to improve, or something worth building.
 
 ## What I work with
 
@@ -69,9 +77,12 @@ I've worked with **React** and **Vite** on web interfaces, explored **Next.js** 
 
 ## Lately
 
-I'm focused on writing better code, understanding how applications communicate through APIs, and learning how development connects with infrastructure and real-world business needs.
+- Studying Systems Analysis and Development.
+- Gaining hands-on experience in IT infrastructure and support.
+- Strengthening my skills in back-end development, APIs, and automation.
+- Exploring new technologies and finding ways to apply what I learn to real-world problems.
 
-Outside of tech, there's usually music playing. I'm also into Formula 1, football, and games.
+Outside of tech, there's usually music playing, mostly Olivia Rodrigo. I'm also into Formula 1, football, movies and games.
 
 ---
 
