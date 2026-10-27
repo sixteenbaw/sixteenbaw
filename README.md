@@ -8,7 +8,7 @@
 <sub>Systems Analysis & Development student based in Brazil.</sub>
 
 <br><br>
-<img src="./assets/terminal.gif" alt="A short terminal animation" width="390" />
+<img src="./assets/terminal.gif" width="500" alt="Terminal animation" />
 
 <br>
 <a href="https://github.com/sixteenbaw?tab=repositories">Projects</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/nicolyrolim/">LinkedIn</a>
