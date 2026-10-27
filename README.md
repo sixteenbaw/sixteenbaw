@@ -15,22 +15,10 @@
 
 <br><br>
 
-
 <p align="center">
-  <a href="https://github.com/sixteenbaw">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-         width="27" height="27" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nicolyrolim/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-         width="27" height="27" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nicklr8/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F"
-         width="27" height="27" alt="Instagram" />
-  </a>
+  <a href="https://github.com/sixteenbaw"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" height="27" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nicolyrolim/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="27" height="27" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nicklr8/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="27" height="27" alt="Instagram"></a>
 </p>
 
 </div>
