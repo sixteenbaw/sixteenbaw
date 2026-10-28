@@ -29,7 +29,7 @@
 
 ## The Story So Far
 
-Hey, I'm Nick, a developer from Brazil who enjoys <ins>turning ideas into things that actually work</ins>.
+What's up? I’m Nick, a developer from São Paulo, Brazil, who enjoys <ins>turning ideas into things that actually work</ins>.
 
 My journey into tech started with a **two-year technical program in IT**, where I was introduced to programming, software development, and the fundamentals of how systems work. What began as curiosity gradually turned into something I genuinely wanted to pursue.
 
