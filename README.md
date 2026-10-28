@@ -83,10 +83,13 @@ I'm still figuring out where I want to specialize, and that's part of what makes
 - **Git & GitHub** — version control, commits, repository management, and project documentation.
 - **VS Code & Postman** — day-to-day development and exploring or testing API requests.
 
+
 ## Under the Hood
 
 <p align="center">
-  <img src="./assets/concepts-ticker.gif" alt="Scrolling concepts: Responsive UI, Programming Logic, CRUD, HTTP and JSON, API Integration, Debugging, Troubleshooting, Process Improvement and IT Support" width="960" />
+  <img src="./assets/concepts-carousel.gif"
+       alt="Animated carousel of development concepts"
+       width="960" />
 </p>
 
 ## Lately
